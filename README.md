@@ -31,7 +31,7 @@ COMPONENTS USED:
 
 SOFTWARE USED:
 
-• EasyEDA / KiCad
+• EasyEDA
 
 
 AUTHOR: Ivan Misajon
