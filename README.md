@@ -1,7 +1,7 @@
 # Solar Tracker - Arduino Nano PCB
 Project Description: Compact dual-axis solar tracker PCB powered by an Arduino Nano. Designed to improve solar panel efficiency by automatically tracking sunlight using sensor-based motor control.
 
-FEATURES:
+📍 FEATURES:
 
 • Dual-axis sun tracking
 
@@ -15,7 +15,7 @@ FEATURES:
 
 • Status LED indication
 
-COMPONENTS USED:
+⚙️ COMPONENTS USED:
 
 • Arduino Nano
 
@@ -29,7 +29,7 @@ COMPONENTS USED:
 
 • Motor Connectors
 
-SOFTWARE USED:
+💻 SOFTWARE USED:
 
 • EasyEDA
 
